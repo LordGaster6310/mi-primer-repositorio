@@ -1,1 +1,6 @@
+datos={
 
+    "nombre":"Gaster",
+    "apellido":"Roa Zambrano",
+    "CI":"31668178"
+}
